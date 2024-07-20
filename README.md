@@ -1,0 +1,1 @@
+<h1>Jogo do número Secreto</h1> <br><br><h2>Informações</h2> <p>Esse é um jogo em que o objetivo é descrobir o misteriosos número secreto</p> <br><br> <h2>Tecnologias</h2><br> <p>Html, Css e Javascript</p>
