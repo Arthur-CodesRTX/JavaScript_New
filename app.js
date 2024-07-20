@@ -19,7 +19,7 @@ let listaNumeroSorteados = [];
      let chute = document.querySelector('input').value;
     
     if (chute == numeroSecreto) {
-        exibirTextoNaTela('h1', 'Parabéns, você acertou!');
+        exibirTextoNaTela('h1', 'Boa, você acertou!');
         let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
          let mensagemTentativas = `Você acertou em ${tentativas} ${palavraTentativa}.`;
         exibirTextoNaTela('p', mensagemTentativas);
